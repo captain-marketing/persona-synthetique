@@ -1,0 +1,8 @@
+{
+  "name": "persona-synthetique",
+  "description": "Transforme tes données clients en personas vivants, simulables et évolutifs. Crée, valide, simule et affine des personas synthétiques à partir de transcriptions AI Notetaker et données clients réelles.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Captain Marketing"
+  }
+}

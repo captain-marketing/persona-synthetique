@@ -1,0 +1,26 @@
+{
+  "name": "captain-marketing-plugins",
+  "owner": {
+    "name": "Captain Marketing",
+    "email": "stephane@captainmarketing.io"
+  },
+  "metadata": {
+    "description": "Plugins Captain Marketing — Persona Synthétique et outils marketing B2B"
+  },
+  "plugins": [
+    {
+      "name": "persona-synthetique",
+      "source": "./",
+      "description": "Transforme tes données clients en personas vivants, simulables et évolutifs. Crée, valide, simule et affine des personas synthétiques à partir de transcriptions AI Notetaker et données clients réelles.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Captain Marketing",
+        "email": "stephane@captainmarketing.io"
+      },
+      "homepage": "https://captainmarketing.io",
+      "repository": "https://github.com/captain-marketing/persona-synthetique",
+      "license": "MIT",
+      "keywords": ["persona", "marketing", "B2B", "simulation", "client", "ICP"]
+    }
+  ]
+}
