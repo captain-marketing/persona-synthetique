@@ -1,5 +1,7 @@
 # Plugin — Persona Synthétique
 
+![Persona Synthétique](assets/social-preview.jpg)
+
 **Transforme tes données clients en personas vivants, simulables et évolutifs.**
 
 Créé par [Captain Marketing](https://captainmarketing.io) — Stéphane Truphème
